@@ -19,4 +19,8 @@ Using the same techniques used earlier, I made a DataFrame, that includes percen
 
 # The top 5 and the top 5 worst performing school
 I found the top five schools and the top 5 worst schools and the results below in the photo, but to summarise, the total number of students in 10th to 12th grade is 1,174 and of those that passed is 1,094, and those that passed their math class is 1,139
-- [top5](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/numbers.PNG)
+- ![top5](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/numbers.PNG)
+
+Next, I did some calculations to find out what percentage of students passed their math and reading classes as seen below:
+- ![more_percentage](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/more_percentage.PNG)
+
