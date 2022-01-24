@@ -13,4 +13,10 @@ After subtracting the total student count by the number of 9th graders at Thomas
 - ![District2](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/District_Summary2.PNG)
 
 # The School Summary
+Using the same techniques used earlier, I made a DataFrame, that includes percentages of how well all the students did in the district, the school budgets, the average math, and reading, and more.
  - ![Total_students](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/total_school_percentages.PNG)
+
+
+# The top 5 and the top 5 worst performing school
+I found the top five schools and the top 5 worst schools and the results below in the photo, but to summarise, the total number of students in 10th to 12th grade is 1,174 and of those that passed is 1,094, and those that passed their math class is 1,139
+- [top5](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/numbers.PNG)
