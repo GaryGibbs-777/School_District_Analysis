@@ -24,3 +24,7 @@ I found the top five schools and the top 5 worst schools and the results below i
 Next, I did some calculations to find out what percentage of students passed their math and reading classes as seen below:
 - ![more_percentage](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/more_percentage.PNG)
 
+Next I added the nan to the scores of Thomas High School, using the loc method as seen below:
+- ![percents1](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/AVG_scores1.PNG)
+- ![percents2](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/AVG_scores2.PNG) 
+
