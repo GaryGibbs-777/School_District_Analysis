@@ -28,3 +28,9 @@ Next I added the nan to the scores of Thomas High School, using the loc method a
 - ![percents1](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/AVG_scores1.PNG)
 - ![percents2](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/AVG_scores2.PNG) 
 
+I was able to get the average math and reading scores for grades 9 to 12 and pictures of that are below:
+- ![percent_last](https://github.com/GaryGibbs-777/School_District_Analysis/blob/main/Recources/AVG_last.PNG)
+
+# Summary
+
+Overall, after relplacing all of the Thomas High School students that are from the 9th grade onward, in reading and math subjects, with a NaN, has made the data go down negatively. And Thomas High got knocked down from 2nd from the top 3 to the near bottom end of the top 10.
